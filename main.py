@@ -1,29 +1,33 @@
-import requests
 from bs4 import BeautifulSoup
 
-file_path = "web.htm"
 
-# Open the file and read its contents
-with open(file_path, "r", encoding="utf-8") as file:
-    html_content = file.read()
+def get_data():
+    file_path = "web.htm"
 
-# Parse the HTML content using BeautifulSoup
-soup = BeautifulSoup(html_content, "html.parser")
+    # Open the file and read its contents
+    with open(file_path, "r", encoding="utf-8") as file:
+        html_content = file.read()
+    # Parse the HTML content using BeautifulSoup
+    soup = BeautifulSoup(html_content, "html.parser")
 
-# Find all the <a> tags with the speci"rounded-lg bg-gray-200 p-4 m-3 shadow-lg break-words w-72 hover:shadow-xl hover:bg-gray-100 flex flex-col justify-between
-api_links = soup.find_all("a", class_="rounded-lg bg-gray-200 p-4 m-3 shadow-lg break-words w-72 hover:shadow-xl hover:bg-gray-100 flex flex-col justify-between")
-titles = soup.find_all("div", class_="text-2xl text-gray-900 font-bold pb-2")
+    # Find the div with the class 'container'
+    all_divs = soup.find("div", class_="flex flex-none justify-center bg-gray-300")
 
+    data = []
 
-data = []
+    for elm in all_divs.contents:
+        category = ""
+        for e in elm.contents:
+            title = ""
+            link = ""
+            disc = ""
+            if e.name == "div":
+                category = e.contents[0].text
+            elif e.name == "a":
+                title = e.contents[0].contents[0].text
+                disc = e.contents[0].contents[1].text
+                link = e['href']
 
-# Extract the text content and URLs of the API links
-for i in range(0,len(api_links)):
-    api_name = api_links[i].get_text(strip=True)
-    api_url = api_links[i]["href"]
-    title = titles[i].get_text(strip=True)
-    data.append([title,api_name,api_url])
+            data.append([title,link,disc,category])
+    return data
 
-
-
-print(len(data))
