@@ -18,8 +18,8 @@ for d in data:
 with open('output.md', 'w', encoding='utf-8') as f:
 
     for topic in orders:
-        if topic != "":
-            f.write(f"\n\n# {topic}:\n\n")
-            f.write("| Title | Description | Link |\n")
-            for item in orders[topic]:
-                f.write(f"| {item[0]} | {item[2]} | {item[1]} |\n")
+        f.write(f"\n\n# {topic}:\n\n")
+        f.write("| Title | Description | Link |\n")
+        f.write("| -------- | ------- | -------- |\n")
+        for item in orders[topic]:
+            f.write(f"| {item[0]} | {item[2]} | {item[1]} |\n")
