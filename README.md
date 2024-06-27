@@ -9,7 +9,6 @@ MADE WITH ❤️ ENJOY 😍
 # Animals:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | AdoptAPet | Resource to help get pets adopted | https://www.adoptapet.com/public/apis/pet_list.html |
 | Cat Facts | Daily cat facts | https://alexwohlbruck.github.io/cat-facts/ |
@@ -35,13 +34,11 @@ MADE WITH ❤️ ENJOY 😍
 | Shibe.Online | Random pictures of Shiba Inu, cats or birds | http://shibe.online/ |
 | The Dog | A public service all about Dogs, free to use when making your fancy new App, Website or Service | https://thedogapi.com/ |
 | xeno-canto | Bird recordings | https://xeno-canto.org/explore/api |
-| -------- | ------- | -------- |
 
 
 # Anime:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | AniDB | Anime Database | https://wiki.anidb.net/HTTP_API_Definition |
 | AniList | Anime discovery & tracking | https://github.com/AniList/ApiV2-GraphQL-Docs |
@@ -62,13 +59,11 @@ MADE WITH ❤️ ENJOY 😍
 | Waifu.it | Free RESTful API for Anime Quotes, Facts, Emotes, Gifs, Nekos, Waifus and More! | https://docs.waifu.it/ |
 | Waifu.pics | Image sharing platform for anime images | https://waifu.pics/docs |
 | Wibu API | Anime, Donghua, Manga, Manhua, Manhwa, J-Drama, Genshin Impact. All-in-one weebs related stuff api. | https://wibu-api.eu.org/ |
-| -------- | ------- | -------- |
 
 
 # Anti-Malware:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | AbuseIPDB | IP/domain/URL reputation | https://docs.abuseipdb.com/ |
 | AlienVault Open Threat Exchange (OTX) | IP/domain/URL reputation | https://otx.alienvault.com/api |
@@ -84,13 +79,11 @@ MADE WITH ❤️ ENJOY 😍
 | URLScan.io | Scan and Analyse URLs | https://urlscan.io/about-api/ |
 | VirusTotal | VirusTotal File/URL Analysis | https://www.virustotal.com/en/documentation/public-api/ |
 | Web of Trust | IP/domain/URL reputation | https://support.mywot.com/hc/en-us/sections/360004477734-API- |
-| -------- | ------- | -------- |
 
 
 # Art & Design:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | Améthyste | Generate images for Discord users | https://api.amethyste.moe/ |
 | Art Institute of Chicago | Art | https://api.artic.edu/docs/ |
@@ -113,13 +106,11 @@ MADE WITH ❤️ ENJOY 😍
 | The Color | Swiss army knife for color | https://www.thecolorapi.com/ |
 | Word Cloud | Easily create word clouds | https://wordcloudapi.com/ |
 | xColors | Generate & convert colors | https://github.com/cheatsnake/xColors-api |
-| -------- | ------- | -------- |
 
 
 # Authentication & Authorization:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | Auth0 | Easy to implement, adaptable authentication and authorization platform | https://auth0.com/ |
 | Clerk | Drop-in React components for authentication and authorization | https://clerk.com/ |
@@ -130,13 +121,11 @@ MADE WITH ❤️ ENJOY 😍
 | MojoAuth | Secure and modern passwordless authentication platform | https://mojoauth.com/ |
 | Stytch | User infrastructure for modern applications | https://stytch.com/ |
 | Warrant | APIs for authorization and access control | https://docs.warrant.dev/ |
-| -------- | ------- | -------- |
 
 
 # Blockchain:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | Bitquery | Onchain GraphQL APIs & DEX APIs | https://graphql.bitquery.io/ide |
 | Bscscan | Binance Smart Chain explorer API | https://bscscan.com/apis |
@@ -150,13 +139,11 @@ MADE WITH ❤️ ENJOY 😍
 | Steem | Blockchain-based blogging and social media website | https://developers.steem.io/ |
 | The Graph | Indexing protocol for querying networks like Ethereum with GraphQL | https://thegraph.com/ |
 | Watchdata | Provide simple and reliable API access to Ethereum blockchain | https://docs.watchdata.io/ |
-| -------- | ------- | -------- |
 
 
 # Books:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | A Bíblia Digital | Do not worry about managing the multiple versions of the Bible | https://www.abibliadigital.com.br/en |
 | Bhagavad Gita | Bhagavad Gita text | https://bhagavadgita.io/api |
@@ -178,13 +165,11 @@ MADE WITH ❤️ ENJOY 😍
 | Thirukkural | 1330 Thirukkural poems and explanation in Tamil and English | https://api-thirukkural.web.app/ |
 | Wizard World | Get information from the Harry Potter universe | https://wizard-world-api.herokuapp.com/swagger/index.html |
 | Wolne Lektury | API for obtaining information about e-books available on the WolneLektury.pl website | https://wolnelektury.pl/api/ |
-| -------- | ------- | -------- |
 
 
 # Business:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | Apache Superset | API to manage your BI dashboards and data sources on Superset | https://superset.apache.org/docs/api |
 | ArvanCloud | Enables you to use ArvanCloud services | https://www.arvancloud.ir/en/dev/sdk |
@@ -209,13 +194,11 @@ MADE WITH ❤️ ENJOY 😍
 | Tenders in Ukraine | Get data for procurements in Ukraine in JSON format | https://tenders.guru/ua/api |
 | Tomba email finder | Email Finder for B2B sales and email marketing and email verifier | https://tomba.io/api |
 | Trello | Boards, lists and cards to help you organize and prioritize your projects | https://developers.trello.com/ |
-| -------- | ------- | -------- |
 
 
 # Calendar:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | Abstract Public Holidays | Data on national, regional, and religious holidays via API | https://www.abstractapi.com/holidays-api |
 | Calendarific | Worldwide Holidays | https://calendarific.com/ |
@@ -235,13 +218,11 @@ MADE WITH ❤️ ENJOY 😍
 | Orthodox Church Calendar | Orthodox Church calendar | http://orthodox-calendar.org/swagger-ui/index.html?urls.primaryName=public#/public-controller/getData |
 | Russian Calendar | Check if a date is a Russian holiday or not | https://github.com/egno/work-calendar |
 | UK Bank Holidays | Bank holidays in England and Wales, Scotland and Northern Ireland | https://www.gov.uk/bank-holidays.json |
-| -------- | ------- | -------- |
 
 
 # Cloud Storage & File Sharing:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | Box | File Sharing and Storage | https://developer.box.com/ |
 | ddownload | File Sharing and Storage | https://ddownload.com/api |
@@ -264,13 +245,11 @@ Compatible Object Storage is a fast and scalable cloud storage system by
 | Storj | Decentralized Open-Source Cloud Storage | https://docs.storj.io/dcs/ |
 | The Null Pointer | No-bullshit file hosting and URL shortening service | https://0x0.st/ |
 | Web3 Storage | File Sharing and Storage for Free with 1TB Space | https://web3.storage/ |
-| -------- | ------- | -------- |
 
 
 # Continuous Integration:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | Azure DevOps Health | Resource health helps you diagnose and get support when an Azure issue impacts your resources | https://docs.microsoft.com/en-us/rest/api/resourcehealth |
 | Bitrise | Build tool and processes integrations to create efficient development pipelines | https://api-docs.bitrise.io/ |
@@ -278,13 +257,11 @@ Compatible Object Storage is a fast and scalable cloud storage system by
 | CircleCI | Automate the software development process using continuous integration and continuous delivery | https://circleci.com/docs/api/v1-reference/ |
 | Codeship | Codeship is a Continuous Integration Platform in the cloud | https://docs.cloudbees.com/docs/cloudbees-codeship/latest/api-overview/ |
 | Travis CI | Sync your GitHub projects with Travis CI to test your code in minutes | https://docs.travis-ci.com/api/ |
-| -------- | ------- | -------- |
 
 
 # Cryptocurrency:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | 1inch | API for querying decentralize exchange | https://1inch.io/api/ |
 | Alchemy Ethereum | Ethereum Node-as-a-Service Provider | https://docs.alchemy.com/alchemy/ |
@@ -342,13 +319,11 @@ Compatible Object Storage is a fast and scalable cloud storage system by
 | VALR | Cryptocurrency Exchange based in South Africa | https://docs.valr.com/ |
 | WorldCoinIndex | Cryptocurrencies Prices | https://www.worldcoinindex.com/apiservice |
 | ZMOK | Ethereum JSON RPC API and Web3 provider | https://docs.zmok.io/ |
-| -------- | ------- | -------- |
 
 
 # Currency Exchange:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | 1Forge | Forex currency market data | https://1forge.com/forex-data-api/api-documentation |
 | Amdoren | Free currency API with over 150 currencies | https://www.amdoren.com/currency-api/ |
@@ -371,13 +346,11 @@ Compatible Object Storage is a fast and scalable cloud storage system by
 | National Bank of Poland | A collection of currency exchange rates (data in XML and JSON) | http://api.nbp.pl/en.html |
 | VATComply.com | Exchange rates, geolocation and VAT number validation | https://www.vatcomply.com/documentation |
 | Convert Currency to Multiple Currencies | Convert currencies from a source currency to multiple target currencies. | https://apyhub.com/utility/currency-conversion-multiple |
-| -------- | ------- | -------- |
 
 
 # Data Validation:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | API Adresse | Official French address validation service | https://adresse.data.gouv.fr/api-doc/adresse |
 | Brevo Suit | Connection for brevo CRM suite | https://developers.brevo.com/ |
@@ -389,13 +362,11 @@ Compatible Object Storage is a fast and scalable cloud storage system by
 | US Street Address | Validate and append data for any US postal address | https://www.smarty.com/docs/cloud/us-street-api |
 | Validate UK Postcodes | This API validates postal codes within UK | https://apyhub.com/utility/data-postcodes-uk |
 | VatcheckAPI | VAT Number Validation & Lookup REST API | https://vatcheckapi.com/ |
-| -------- | ------- | -------- |
 
 
 # Development:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | 24 Pull Requests | Project to promote open source collaboration during December | https://24pullrequests.com/api |
 | Abstract Screenshot | Take programmatic screenshots of web pages from any website | https://www.abstractapi.com/website-screenshot-api |
@@ -532,13 +503,11 @@ bypass all major anti-bots. | https://scrapfly.io/ |
 | Wandbox | Code compiler supporting 35+ languages mentioned at wandbox.org | https://github.com/melpon/wandbox/blob/master/kennel/API.md |
 | WebScraping.AI | Web Scraping API with built-in proxies and JS rendering | https://webscraping.ai/ |
 | ZenRows | Web Scraping API that bypasses anti-bot solutions while offering JS rendering, and rotating proxies | https://www.zenrows.com/ |
-| -------- | ------- | -------- |
 
 
 # Dictionaries:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | Chinese Character Web | Chinese character definitions and pronunciations | http://ccdb.hemiola.com/ |
 | Chinese Text Project | Online open-access digital library for pre-modern Chinese texts | https://ctext.org/tools/api |
@@ -552,13 +521,11 @@ bypass all major anti-bots. | https://scrapfly.io/ |
 | Wordnik | Dictionary Data | https://developer.wordnik.com/ |
 | Words | Definitions and synonyms for more than 150,000 words | https://www.wordsapi.com/docs/ |
 | WordsAPI | An API for the English Language. Find definitions, related words, and more | https://www.wordsapi.com/docs/ |
-| -------- | ------- | -------- |
 
 
 # Documents & Productivity:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | Airtable | Integrate with Airtable | https://airtable.com/api |
 | Api2Convert | Online File Conversion API | https://www.api2convert.com/ |
@@ -594,13 +561,11 @@ bypass all major anti-bots. | https://scrapfly.io/ |
 | WakaTime | Automated time tracking leaderboards for programmers | https://wakatime.com/developers |
 | WebPDF | Work with PDF files via API | https://webpdf.xyz/ |
 | Zube | Full stack project management | https://zube.io/docs/api |
-| -------- | ------- | -------- |
 
 
 # Email:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | Abstract Email Validation | Validate email addresses for deliverability and spam | https://www.abstractapi.com/email-verification-validation-api |
 | Disify | Validate and detect disposable and temporary email addresses | https://www.disify.com/ |
@@ -623,13 +588,11 @@ bypass all major anti-bots. | https://scrapfly.io/ |
 | Sendinblue | A service that provides solutions relating to marketing and/or transactional email and/or SMS | https://developers.sendinblue.com/docs |
 | Valid Email | Verify email addresses for spam and delivery | https://validemail.io/ |
 | Verifier | Verifies that a given email is real | https://verifier.meetchopra.com/docs#/ |
-| -------- | ------- | -------- |
 
 
 # Entertainment:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | chucknorris.io | JSON API for hand curated Chuck Norris jokes | https://api.chucknorris.io/ |
 | Corporate Buzz Words | REST API for Corporate Buzz Words | https://github.com/sameerkumar18/corporate-bs-generator-api |
@@ -644,13 +607,11 @@ bypass all major anti-bots. | https://scrapfly.io/ |
 | Random Useless Facts | Get useless, but true facts | https://uselessfacts.jsph.pl/ |
 | Techy | JSON and Plaintext API for tech-savvy sounding phrases | https://techy-api.vercel.app/ |
 | Yo Momma Jokes | REST API for Yo Momma Jokes | https://github.com/beanboi7/yomomma-apiv2 |
-| -------- | ------- | -------- |
 
 
 # Environment:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | BreezoMeter Pollen | Daily Forecast pollen conditions data for a specific location | https://docs.breezometer.com/api-documentation/pollen-api/v2/ |
 | Carbon Interface | API to calculate carbon (C02) emissions estimates for common C02 emitting activities | https://docs.carboninterface.com/ |
@@ -671,24 +632,20 @@ bypass all major anti-bots. | https://scrapfly.io/ |
 | UK Carbon Intensity | The Official Carbon Intensity API for Great Britain developed by National Grid | https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0 |
 | WattBuy | Electricity usage estimations, carbon footprint estimations, and utility data | https://wattbuy.readme.io/reference/getting-started-with-your-api |
 | Website Carbon | API to estimate the carbon footprint of loading web pages | https://api.websitecarbon.com/ |
-| -------- | ------- | -------- |
 
 
 # Events:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | Eventbrite | Find events | https://www.eventbrite.com/platform/api/ |
 | SeatGeek | Search events, venues and performers | https://platform.seatgeek.com/ |
 | Ticketmaster | Search events, attractions, or venues | http://developer.ticketmaster.com/products-and-docs/apis/getting-started/ |
-| -------- | ------- | -------- |
 
 
 # Finance:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | Abstract VAT Validation | Validate VAT numbers and calculate VAT rates | https://www.abstractapi.com/vat-validation-rates-api |
 | Aletheia | Insider trading data, earnings call analysis, financial statements, and more | https://aletheiaapi.com/ |
@@ -734,13 +691,11 @@ bypass all major anti-bots. | https://scrapfly.io/ |
 | Validate Swift/BIC  | Validates BIC/SWIFT code. | https://apyhub.com/utility/finance-validator-bic |
 | YNAB | Budgeting & Planning | https://api.youneedabudget.com/ |
 | Zoho Books | Online accounting software, built for your business | https://www.zoho.com/books/api/v3/ |
-| -------- | ------- | -------- |
 
 
 # Food & Drink:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | BaconMockup | Resizable bacon placeholder images | https://baconmockup.com/ |
 | Chomp | Data about various grocery products and foods | https://chompthis.com/api/ |
@@ -767,13 +722,11 @@ bypass all major anti-bots. | https://scrapfly.io/ |
 | What's on the menu? | NYPL human-transcribed historical menu collection | http://nypl.github.io/menus-api/ |
 | WhiskyHunter | Past online whisky auctions statistical data | https://whiskyhunter.net/api/ |
 | Zestful | Parse recipe ingredients | https://zestfuldata.com/ |
-| -------- | ------- | -------- |
 
 
 # Games & Comics:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | JokeAPI | Programming, Miscellaneous and Dark Jokes | https://sv443.net/jokeapi/v2/ |
 | AmiiboAPI | Nintendo Amiibo Information | https://amiiboapi.com/ |
@@ -868,13 +821,11 @@ bypass all major anti-bots. | https://scrapfly.io/ |
 | xkcd | Retrieve xkcd comics as JSON | https://xkcd.com/json.html |
 | Yu-Gi-Oh! | Yu-Gi-Oh! TCG Information | https://db.ygoprodeck.com/api-guide/ |
 | Zelda | The Legend of Zelda franchise data | https://docs.zelda.fanapis.com/docs |
-| -------- | ------- | -------- |
 
 
 # Geocoding:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | Abstract IP Geolocation | Geolocate website visitors from their IPs | https://www.abstractapi.com/ip-geolocation-api |
 | Actinia Grass GIS | Actinia is an open source REST API for geographical data that uses GRASS GIS | https://actinia.mundialis.de/api_docs/ |
@@ -966,13 +917,11 @@ bypass all major anti-bots. | https://scrapfly.io/ |
 | Zippopotam.us | Get information about place such as country, city, state, etc | http://www.zippopotam.us/ |
 | Ziptastic | Get the country, state, and city of any US zip-code | https://ziptasticapi.com/ |
 | Zipcodestack | Zip Code API - Free Postal Code Validation | https://zipcodestack.com/ |
-| -------- | ------- | -------- |
 
 
 # Government:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | Api Colombia | Community driven API for Colombia Public Data | https://api-colombia.com/ |
 | Bank Negara Malaysia Open Data | Malaysia Central Bank Open Data | https://apikijangportal.bnm.gov.my/ |
@@ -1060,13 +1009,11 @@ bypass all major anti-bots. | https://scrapfly.io/ |
 | US Presidential Election Data by TogaTech | Basic candidate data and live electoral vote counts for top two parties in US presidential election | https://uselection.togatech.org/api/ |
 | USA.gov | Authoritative information on U.S. programs, events, services and more | https://www.usa.gov/developer |
 | USAspending.gov | US federal spending data | https://api.usaspending.gov/ |
-| -------- | ------- | -------- |
 
 
 # Health:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | CMS.gov | Access to the data from the CMS - medicare.gov | https://data.cms.gov/provider-data/ |
 | Coronavirus in the UK | UK Government coronavirus data, including deaths and cases by region | https://coronavirus.data.gov.uk/details/developers-guide |
@@ -1095,13 +1042,11 @@ bypass all major anti-bots. | https://scrapfly.io/ |
 | Open Data NHS Scotland | Medical reference data and statistics by Public Health Scotland | https://www.opendata.nhs.scot/ |
 | Open Disease | API for Current cases and more stuff about COVID-19 and Influenza | https://disease.sh/ |
 | openFDA | Public FDA data about drugs, devices and foods | https://open.fda.gov/ |
-| -------- | ------- | -------- |
 
 
 # Jobs:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | Adzuna | Job board aggregator | https://developer.adzuna.com/overview |
 | Arbeitnow | API for Job board aggregator in Europe / Remote | https://documenter.getpostman.com/view/18545278/UVJbJdKh |
@@ -1123,13 +1068,11 @@ bypass all major anti-bots. | https://scrapfly.io/ |
 | Upwork | Freelance job board and management system | https://developers.upwork.com/ |
 | USAJOBS | US government job board | https://developer.usajobs.gov/ |
 | WhatJobs | Job search engine | https://www.whatjobs.com/affiliates |
-| -------- | ------- | -------- |
 
 
 # Machine Learning:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | AI/ML API | Access 100+ curated AI Models over 1 API | https://aimlapi.com/ |
 | AI For Thai | Free Various Thai AI API | https://aiforthai.in.th/index.php |
@@ -1158,13 +1101,11 @@ scale that was previously unimaginable. | https://docs.cohere.ai/ |
 | Summarize Text with AI | Generates summaries of text and web pages using AI | https://apyhub.com/utility/ai-summarize |
 | Unplugg | Forecasting API for timeseries data | https://unplu.gg/test_api.html |
 | WolframAlpha | Provides specific answers to questions using data and algorithms | https://products.wolframalpha.com/api/ |
-| -------- | ------- | -------- |
 
 
 # Music:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | 7digital | Api of Music store 7digital | https://docs.7digital.com/reference |
 | AI Mastering | Automated Music Mastering | https://aimastering.com/api_docs/ |
@@ -1194,13 +1135,11 @@ scale that was previously unimaginable. | https://docs.cohere.ai/ |
 | TasteDive | Similar artist API (also works for movies and TV shows) | https://tastedive.com/read/api |
 | TheAudioDB | Music | https://www.theaudiodb.com/api_guide.php |
 | Vagalume | Crowdsourced lyrics and music knowledge | https://api.vagalume.com.br/docs/ |
-| -------- | ------- | -------- |
 
 
 # News:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | Associated Press | Search for news and metadata from Associated Press | https://developer.ap.org/ |
 | Chronicling America | Provides access to millions of pages of historic US newspapers from the Library of Congress | http://chroniclingamerica.loc.gov/about/api/ |
@@ -1224,13 +1163,11 @@ scale that was previously unimaginable. | https://docs.cohere.ai/ |
 | TheNews | Aggregated headlines, top story and live news JSON API | https://www.thenewsapi.com/ |
 | Trove | Search through the National Library of Australia collection of 1000s of digitised newspapers | https://trove.nla.gov.au/about/create-something/using-api |
 | World News | Search through millions of semantically tagged worldwide news | https://worldnewsapi.com/ |
-| -------- | ------- | -------- |
 
 
 # Open Data:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | 18F | Unofficial US Federal Government API Development | http://18f.github.io/API-All-the-X/ |
 | API Setu | An Indian Government platform that provides a lot of APIS for KYC, business, education & employment | https://www.apisetu.gov.in/ |
@@ -1271,13 +1208,11 @@ scale that was previously unimaginable. | https://docs.cohere.ai/ |
 | Wikidata | Collaboratively edited knowledge base operated by the Wikimedia Foundation | https://www.wikidata.org/w/api.php?action=help |
 | Wikipedia | Mediawiki Encyclopedia | https://www.mediawiki.org/wiki/API:Main_page |
 | Yelp | Find Local Business | https://www.yelp.com/developers/documentation/v3 |
-| -------- | ------- | -------- |
 
 
 # Open Source Projects:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | Countly | Countly web analytics | https://api.count.ly/reference |
 | Creative Commons Catalog | Search among openly licensed and public domain works | https://api.creativecommons.engineering/ |
@@ -1289,25 +1224,21 @@ scale that was previously unimaginable. | https://docs.cohere.ai/ |
 | GitHub ReadMe Stats | Add dynamically generated statistics to your GitHub profile ReadMe | https://github.com/anuraghazra/github-readme-stats |
 | Metabase | An open source Business Intelligence server to share data and analytics inside your company | https://www.metabase.com/ |
 | Shields | Concise, consistent, and legible badges in SVG and raster format | https://shields.io/ |
-| -------- | ------- | -------- |
 
 
 # Patent:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | EPO | European patent search system api | https://developers.epo.org/ |
 | PatentsView  | API is intended to explore and visualize trends/patterns across the US innovation landscape | https://patentsview.org/apis/purpose |
 | TIPO | Taiwan patent search system api | https://tiponet.tipo.gov.tw/Gazette/OpenData/OD/OD05.aspx?QryDS=API00 |
 | USPTO | USA patent api services | https://www.uspto.gov/learning-and-resources/open-data-and-mobility |
-| -------- | ------- | -------- |
 
 
 # Personality:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | Advice Slip | Generate random advice slips | http://api.adviceslip.com/ |
 | Dev.to | Access Forem articles, users and other resources via API | https://developers.forem.com/api |
@@ -1328,13 +1259,11 @@ scale that was previously unimaginable. | https://docs.cohere.ai/ |
 | Udemy(instructor) | API for instructors on Udemy | https://www.udemy.com/developers/instructor/ |
 | Vadivelu HTTP Codes | On demand HTTP Codes with images | https://vadivelu.anoram.com/ |
 | Zen Quotes | Large collection of Zen quotes for inspiration | https://zenquotes.io/ |
-| -------- | ------- | -------- |
 
 
 # Phone:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | Cloudmersive Validate | Validate international phone numbers | https://cloudmersive.com/phone-number-validation-API |
 | Abstract Phone Validation | Validate phone numbers globally | https://www.abstractapi.com/phone-validation-api |
@@ -1343,13 +1272,11 @@ scale that was previously unimaginable. | https://docs.cohere.ai/ |
 | Proweblook Phone Number Checker | Phone number validation | https://proweblook.com/phone-number-validator |
 | Veriphone | Phone number validation & carrier lookup | https://veriphone.io/ |
 | Proweblook Whatsapp Contact Checker | Whatsapp number validation | https://proweblook.com/whatsapp-number-checker |
-| -------- | ------- | -------- |
 
 
 # Photography:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | APITemplate.io | Dynamically generate images and PDFs from templates with a simple API | https://apitemplate.io/ |
 | Bruzu | Image generation with query string | https://docs.bruzu.com/ |
@@ -1378,25 +1305,21 @@ scale that was previously unimaginable. | https://docs.cohere.ai/ |
 | Unsplash | Photography | https://unsplash.com/developers |
 | Wallhaven | Wallpapers | https://wallhaven.cc/help/api |
 | Webdam | Images | https://www.damsuccess.com/hc/en-us/articles/202134055-REST-API |
-| -------- | ------- | -------- |
 
 
 # Podcasts:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | Spotify | Get details on podcasts & episodes | https://developer.spotify.com/documentation/web-api/ |
 | iTunes | Apple Podcasts Directory | https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/index.html#//apple_ref/doc/uid/TP40017632-CH3-SW1 |
 | PodcastIndex | Get details on podcasts & episodes, Podcast Search | https://podcastindex-org.github.io/docs-api/ |
 | Taddy Podcasts | Get details on podcasts & episodes, Podcast & Episode Search, Webhook notifications | https://taddy.org/developers/podcast-api |
-| -------- | ------- | -------- |
 
 
 # Programming:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | Codeforces | Get access to Codeforces data | https://codeforces.com/apiHelp |
 | Hackerearth | For compiling and running code in several languages | https://www.hackerearth.com/docs/wiki/developers/v4/ |
@@ -1405,13 +1328,11 @@ scale that was previously unimaginable. | https://docs.cohere.ai/ |
 | Pythonium | Validate Python code syntax | https://pythonium.net/linter |
 | Softwium | Validate SQL queries | https://softwium.com/sql-validator/ |
 | Volca | List of programming languages and technologies | https://volca.io/#api |
-| -------- | ------- | -------- |
 
 
 # Science & Math:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | arcsecond.io | Multiple astronomy data sources | https://api.arcsecond.io/ |
 | arXiv | Curated research-sharing platform: physics, mathematics, quantitative finance, and economics | https://arxiv.org/help/api/user-manual |
@@ -1445,13 +1366,11 @@ scale that was previously unimaginable. | https://docs.cohere.ai/ |
 | USGS Earthquake Hazards Program | Earthquakes data real-time | https://earthquake.usgs.gov/fdsnws/event/1/ |
 | USGS Water Services | Water quality and level info for rivers and lakes | https://waterservices.usgs.gov/ |
 | World Bank | World Data | https://datahelpdesk.worldbank.org/knowledgebase/topics/125589 |
-| -------- | ------- | -------- |
 
 
 # Security:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | Application Environment Verification | Android library and API to verify the safety of user devices, detect rooted devices and other risks | https://github.com/fingerprintjs/aev |
 | BinaryEdge | Provide access to BinaryEdge 40fy scanning platform | https://docs.binaryedge.io/api-v2.html |
@@ -1496,13 +1415,11 @@ scale that was previously unimaginable. | https://docs.cohere.ai/ |
  and DNS related information that will equip organizaion with 
 comprehensive threat intelligence and attack surface analysis 
 capabilities for enhanced security | https://whoisfreaks.com/ |
-| -------- | ------- | -------- |
 
 
 # Shopping:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | Best Buy | Products, Buying Options, Categories, Recommendations, Stores and Commerce | https://bestbuyapis.github.io/api-documentation/#overview |
 | Canopy | A modern API for Amazon Data | https://www.canopyapi.co/ |
@@ -1521,13 +1438,11 @@ capabilities for enhanced security | https://whoisfreaks.com/ |
 | Shopee | Shopee's official API for integration of various services from Shopee | https://open.shopee.com/documents?version=1 |
 | Tokopedia | Tokopedia's Official API for integration of various services from Tokopedia | https://developer.tokopedia.com/openapi/guide/#/ |
 | WooCommerce | WooCommerce REST APIS to create, read, update, and delete data on wordpress website in JSON format | https://woocommerce.github.io/woocommerce-rest-api-docs/ |
-| -------- | ------- | -------- |
 
 
 # Social:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | 4chan | Simple image-based bulletin board dedicated to a variety of topics | https://github.com/4chan/4chan-API |
 | Ayrshare | Social media APIs to post, get analytics, and manage multiple users social media accounts | https://www.ayrshare.com/ |
@@ -1567,13 +1482,11 @@ capabilities for enhanced security | https://whoisfreaks.com/ |
 | Twitter | Read and write Twitter data | https://developer.twitter.com/en/docs |
 | vk | Read and write vk data | https://vk.com/dev/sites |
 | Webex | Team collaboration software | https://developer.webex.com/ |
-| -------- | ------- | -------- |
 
 
 # Sports & Fitness:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | American Football Highlights API | Real time American Football (NFL/NCAA) highlights | https://highlightly.net/documentation/american-football/ |
 | API-FOOTBALL | Get information about Football Leagues & Cups | https://www.api-football.com/documentation-v3 |
@@ -1611,13 +1524,11 @@ capabilities for enhanced security | https://whoisfreaks.com/ |
 | TheSportsDB | Crowd-Sourced Sports Data and Artwork | https://www.thesportsdb.com/api.php |
 | Tredict | Get and set activities, health data and more | https://www.tredict.com/blog/oauth_docs/ |
 | Wger | Workout manager data as exercises, muscles or equipment | https://wger.de/en/software/api |
-| -------- | ------- | -------- |
 
 
 # Test Data:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | Bacon Ipsum | A Meatier Lorem Ipsum Generator | https://baconipsum.com/json-api/ |
 | Dicebear Avatars | Generate random pixel-art avatars | https://avatars.dicebear.com/ |
@@ -1642,13 +1553,11 @@ capabilities for enhanced security | https://whoisfreaks.com/ |
 | UUID Generator | Generate UUIDs | https://www.uuidtools.com/docs |
 | What The Commit | Random commit message generator | http://whatthecommit.com/index.txt |
 | Yes No | Generate yes or no randomly | https://yesno.wtf/api |
-| -------- | ------- | -------- |
 
 
 # Text Analysis:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | Aylien Text Analysis | A collection of information retrieval and natural language APIs | https://docs.aylien.com/textapi/#getting-started |
 | Chatpdf | Chat with pdf using GPT4 and ChatGPT | https://chatpdf.so/api |
@@ -1664,13 +1573,11 @@ capabilities for enhanced security | https://whoisfreaks.com/ |
 | Sentiment Analysis | Multilingual sentiment analysis of texts from different sources | https://www.meaningcloud.com/developer/sentiment-analysis |
 | Tisane | Text Analytics with focus on detection of abusive content and law enforcement applications | https://tisane.ai/ |
 | Watson Natural Language Understanding | Natural language processing for advanced text analysis | https://cloud.ibm.com/apidocs/natural-language-understanding/natural-language-understanding |
-| -------- | ------- | -------- |
 
 
 # Tracking:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | Aftership | API to update, manage and track shipment efficiently | https://developers.aftership.com/reference/quick-start |
 | Correios | Integration to provide information and prepare shipments using Correio's services | https://cws.correios.com.br/ajuda |
@@ -1682,13 +1589,11 @@ capabilities for enhanced security | https://whoisfreaks.com/ |
 | UPS | Shipment and Address information | https://www.ups.com/upsdeveloperkit |
 | WeCanTrack | Automatically place subids in affiliate links to attribute affiliate conversions to click data | https://docs.wecantrack.com/ |
 | WhatPulse | Small application that measures your keyboard/mouse usage | https://developer.whatpulse.org/#web-api |
-| -------- | ------- | -------- |
 
 
 # Transportation:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | adsbdb | Open access to aircraft, airline, and flight route data | https://www.adsbdb.com/ |
 | ADS-B Exchange | Access real-time and historical data of any and all airborne aircraft | https://www.adsbexchange.com/data/ |
@@ -1761,13 +1666,11 @@ capabilities for enhanced security | https://whoisfreaks.com/ |
 | Tripadvisor | Rating content for a hotel, restaurant, attraction or destination | https://developer-tripadvisor.com/home/ |
 | Uber | Uber ride requests and price estimation | https://developer.uber.com/products |
 | Velib metropolis, Paris, France | Velib Open Data API | https://www.velib-metropole.fr/donnees-open-data-gbfs-du-service-velib-metropole |
-| -------- | ------- | -------- |
 
 
 # URL Shorteners:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | 1pt | A simple URL shortener | https://github.com/1pt-co/api/blob/main/README.md |
 | Bitly | URL shortener and link management | http://dev.bitly.com/get_started.html |
@@ -1786,13 +1689,11 @@ capabilities for enhanced security | https://whoisfreaks.com/ |
 | Spoo.me | Free URL shortener with custom alias, max-clicks, password protection and advanced analytics support | https://spoo.me/api |
 | TinyURL | Shorten long URLs | https://tinyurl.com/app/dev |
 | Urlmskr | Easy and fast masked, shortened link creation | https://github.com/Axorax/urlmskr#urlmskr-api |
-| -------- | ------- | -------- |
 
 
 # Vehicle:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | Brazilian Vehicles and Prices | Vehicles information from Fundação Instituto de Pesquisas Econômicas - Fipe | https://deividfortuna.github.io/fipe/ |
 | Helipaddy sites | Helicopter and passenger drone landing site directory, Helipaddy data and much more | https://helipaddy.com/api/ |
@@ -1800,13 +1701,11 @@ capabilities for enhanced security | https://whoisfreaks.com/ |
 | Mercedes-Benz | Telematics data, remotely access vehicle functions, car configurator, locate service dealers | https://developer.mercedes-benz.com/apis |
 | NHTSA | NHTSA Product Information Catalog and Vehicle Listing | https://vpic.nhtsa.dot.gov/api/ |
 | Smartcar | Lock and unlock vehicles and get data like odometer reading and location. Works on most new cars | https://smartcar.com/docs/ |
-| -------- | ------- | -------- |
 
 
 # Video:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | An API of Ice And Fire | Game Of Thrones API | https://anapioficeandfire.com/ |
 | Bob's Burgers API | The Bob's Burgers API contains data for hundreds of characters, episodes, running gags, and images from the show | https://bobsburgersapi.com/ |
@@ -1854,13 +1753,11 @@ capabilities for enhanced security | https://whoisfreaks.com/ |
 | Watchmode | API for finding out the streaming availability of movies & shows | https://api.watchmode.com/ |
 | Web Series Quotes Generator | API generates various Web Series Quote Images | https://github.com/yogeshwaran01/web-series-quotes |
 | YouTube | Add YouTube functionality to your sites and apps | https://developers.google.com/youtube/ |
-| -------- | ------- | -------- |
 
 
 # Weather:
 
 | Title | Description | Link |
-| -------- | ------- | -------- |
 |  |  |  |
 | 7Timer! | Weather, especially for Astroweather | http://www.7timer.info/doc.php?lang=en |
 | AccuWeather | Weather and forecast data | https://developer.accuweather.com/apis |
@@ -1893,4 +1790,3 @@ capabilities for enhanced security | https://whoisfreaks.com/ |
 | WeatherAPI | Weather API with other stuff like Astronomy and Geolocation API | https://www.weatherapi.com/ |
 | Weatherbit | Weather | https://www.weatherbit.io/api |
 | Yandex.Weather | Assesses weather condition in specific locations | https://yandex.com/dev/weather/ |
-| -------- | ------- | -------- |
