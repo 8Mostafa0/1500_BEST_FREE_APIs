@@ -2,7 +2,7 @@
 Co-authored-by:  Mehranism nkh.mehran@gmail.com
 
 python script fot geting data from online web sites
-      7
+      8
 We collected this repository from all around the world and put it here to make it grow better and more interested people. We hope that we have done even a little bit to help you friends.
  
 MADE WITH ❤️ ENJOY 😍
